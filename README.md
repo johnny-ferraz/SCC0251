@@ -18,9 +18,8 @@ As imagens utilizadas foram geradas sinteticamente por um algoritmo desenvolvido
 
 ## Organização e Extração de ROIs
 
-- Para imagens sem lesão, basta gerar uma única imagem e extrair diversas ROIs em diferentes regiões;
-- Para imagens com lesão, o agrupamento de microcalcificações deve ser inserido antes da simulação do ruído, pois a densidade anatômica muda de imagem para imagem;
-- Por esse motivo, foram necessárias múltiplas imagens simuladas com diferentes posicionamentos do *cluster* para totalizar as 200 ROIs com lesão utilizadas neste trabalho.
+- Para **imagens sem lesão**, basta gerar uma única imagem e extrair diversas ROIs em diferentes regiões;
+- Para **imagens com lesão**, o agrupamento de microcalcificações deve ser inserido antes da simulação do ruído, pois a densidade anatômica muda de imagem para imagem. Por esse motivo, foram necessárias múltiplas imagens simuladas com diferentes posicionamentos do *cluster* para totalizar as 200 ROIs com lesão utilizadas neste trabalho.
 
 ---
 
