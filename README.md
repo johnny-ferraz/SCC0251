@@ -53,7 +53,7 @@ Esse modelo permite quantificar a capacidade de identificar a presença de lesõ
 
 ---
 
-## 📚 Bibliografia
+## Bibliografia
 
 [1] **BADANO, A. et al.** *Evaluation of digital breast tomosynthesis as replacement of full-field digital mammography using an in silico imaging trial.* JAMA Network Open, v. 1, n. 7, p. e185474, 2018.  
 [2] **BORGES, L. R. et al.** *Noise models for virtual clinical trials of digital breast tomosynthesis.* Med Phys., v. 46, n. 6, p. 2683–9, 2019.  
